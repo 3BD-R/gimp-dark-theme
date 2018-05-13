@@ -7,7 +7,7 @@ Installation
 ------------
 Copy the theme folders to the locations here depending on your OS :
 
-Windows >>  C:\Users<your user name>.gimp-2.8\themes
+Windows >>  C > program file > GIMP 2 > share > 2.0 > themes
 
 Mac OS X >>  ~/Library/Application Support/GIMP/2.8/themes or ~/.gimp-2.8/themes
 
